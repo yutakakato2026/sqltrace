@@ -63,6 +63,18 @@ Run the Streamlit app:
 streamlit run sqltrace_app.py
 ```
 
+## Sample Data
+
+This repository includes sample data for demonstration purposes.
+
+The sample data is located at:
+
+```text
+sample_data/sample_sqltrace_log.csv
+```
+
+Actual personal learning logs are not included in this repository.
+
 ## Screenshots
 
 ### Input Form
