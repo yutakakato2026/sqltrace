@@ -61,7 +61,7 @@ Solve SQL exercises
 → Analyze weak points
 → Extract review targets
 → Re-practice and improve
-
+```
 
 ## 日本語概要
 
