@@ -49,6 +49,24 @@ By storing these logs, the app makes it easier to identify weak points and conti
 - GitHub
 - Markdown
 
+## Screenshots
+
+### Input Form
+
+![SQLTrace input form](images/sqltrace_input.png)
+
+### Analysis Summary
+
+![SQLTrace analysis summary](images/sqltrace_analysis_summary.png)
+
+### Analysis Charts
+
+![SQLTrace analysis charts](images/sqltrace_analysis_charts.png)
+
+### Mistake Review and Re-practice
+
+![SQLTrace mistake review](images/sqltrace_miss_retrain.png)
+
 ## App Concept
 
 SQLTrace focuses on the learning process behind SQL practice.
