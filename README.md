@@ -107,6 +107,16 @@ Solve SQL exercises
 → Re-practice and improve
 ```
 
+## Notes
+
+This repository is prepared as a portfolio project.
+
+Actual personal learning logs are not included.  
+Sample data is provided only for demonstration purposes.
+
+This app was originally created for personal SQL learning and review.  
+Some features may require additional sample files, such as a SQLite database, when running locally.
+
 ## 日本語概要
 
 SQLTraceは、SQL学習の記録・ミス分類・復習管理を行う学習支援アプリです。
