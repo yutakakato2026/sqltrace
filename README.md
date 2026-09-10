@@ -49,6 +49,20 @@ By storing these logs, the app makes it easier to identify weak points and conti
 - GitHub
 - Markdown
 
+## How to Run
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit app:
+
+```bash
+streamlit run sqltrace_app.py
+```
+
 ## Screenshots
 
 ### Input Form
